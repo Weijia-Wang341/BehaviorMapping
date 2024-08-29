@@ -70,10 +70,6 @@ def process_pdfs(folder_path, csv_file_path):
     print("Data saved to: ", csv_file_path)
     lb.config(text='Process complete and data saved.')
 
-# csv_file_path = input("Please enter the desired file path and file name for saving the CSV file (e.g., C:/path/to/output.csv): ")
-# df.to_csv(csv_file_path, index=False)
-# print("Data saved to:", csv_file_path)
-
 
 ###### open BB folder #####
 def FileOpen():
@@ -104,17 +100,6 @@ lb.pack()
 frame = Frame(root)
 frame.pack(expand=True, padx=20, pady=20)
 
-# bottomframe = Frame(root)
-# bottomframe.pack(side=BOTTOM)
-
-# button_open = Button(frame, text='Select a folder', command=FileOpen, fg='black', bg='white')
-# button_open.pack(side=LEFT)
-
-# button_save = Button(frame, text='File Save', command=FileSave, fg='black', bg='white')
-# button_save.pack(side=LEFT)
-
-# button_run = Button(bottomframe, text='Run', command=RunProcess, fg='white', bg='blue')
-# button_run.pack(side=BOTTOM)
 
 Button(frame, text='Open Folder', command=FileOpen, fg='black', bg='white').grid(row=0, column=0, sticky='ew', padx=(0, 10))
 Label(frame, textvariable=selected_folder, bg='white').grid(row=0, column=1, sticky='ew')
