@@ -1,16 +1,11 @@
 # BehaviorMapping
 
-# Behavior Mapping
-
 Behavior Mapping is a method used to visualize and analyze user interactions within a system to improve user experience and functionality. For a detailed exploration of behavior mapping, refer to my [original article](http://example.com/original-article).
-
 
 
 ## Section 1: Executable File
 ![flowchart1](https://github.com/user-attachments/assets/632d7f50-bf7d-4d0a-8de4-68c866b3d410)
 
-
-This section provides information about the executable file used for behavior mapping analysis.
 
 ### Introduction
 
@@ -18,7 +13,7 @@ The executable file (`behavior_mapping.exe`) is designed to streamline the proce
 
 ### Screenshot
 
-![Executable File Screenshot](path/to/your/exe-screenshot.png)
+![50188eebafb5380380ec9126ec21ce44324fc782f876199df65087aef75884f2](https://github.com/user-attachments/assets/e0e1633a-245e-46f5-bffc-95773515f332)
 
 ## Prerequisites
 
@@ -29,7 +24,6 @@ To run the executable file, ensure you have the following Python libraries insta
 - `pyinstaller` for packaging Python applications.
   ```bash
   pip install pyinstaller
-
 
 ## Packaging a Python Script into an Executable
 
