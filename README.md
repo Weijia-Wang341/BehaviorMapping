@@ -7,11 +7,9 @@ Behavior Mapping is a method used to visualize and analyze user interactions wit
 ![flowchart1](https://github.com/user-attachments/assets/632d7f50-bf7d-4d0a-8de4-68c866b3d410)
 
 
-### Introduction
+## Introduction
 
-The executable file (`behavior_mapping.exe`) is designed to streamline the process of behavior mapping analysis.
-
-### Screenshot
+The executable file (`behavior_mapping.exe`) is designed to streamline the process of behavior mapping analysis. It converts PDFs into a single CSV file containing all the necessary data.
 
 ![50188eebafb5380380ec9126ec21ce44324fc782f876199df65087aef75884f2](https://github.com/user-attachments/assets/e0e1633a-245e-46f5-bffc-95773515f332)
 
@@ -78,8 +76,10 @@ Power BI is a powerful tool for data visualization and gaining actionable insigh
 ## Sample Outputs
 
 ### Behavior mapping in Power BI
+![powerbi_bm1_screenshot](https://github.com/user-attachments/assets/c31a9af8-0cfa-4d2b-bced-0b719bffc594)
 
 
 ### Quantitative Analysis
+![powerbi_quant_analysis](https://github.com/user-attachments/assets/2bf52333-b669-46c5-b549-665ec130859e)
 
 
