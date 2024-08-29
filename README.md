@@ -4,9 +4,11 @@
 
 Behavior Mapping is a method used to visualize and analyze user interactions within a system to improve user experience and functionality. For a detailed exploration of behavior mapping, refer to my [original article](http://example.com/original-article).
 
-![Workflow Screenshot](path/to/your/workflow-screenshot.png)
+
 
 ## Section 1: Executable File
+![flowchart1](https://github.com/user-attachments/assets/632d7f50-bf7d-4d0a-8de4-68c866b3d410)
+
 
 This section provides information about the executable file used for behavior mapping analysis.
 
