@@ -3,7 +3,7 @@
 Behavior Mapping is a method used to visualize and analyze user interactions within a system to improve user experience and functionality. For a detailed exploration of behavior mapping, refer to my [original article](http://example.com/original-article).
 
 
-## Section 1: Executable File
+# Step 1: Create an Executable File
 ![flowchart1](https://github.com/user-attachments/assets/632d7f50-bf7d-4d0a-8de4-68c866b3d410)
 
 
@@ -45,7 +45,7 @@ from tkinter import *
 from tkinter import filedialog
 ```
 
-## Data Visualization and Insights with Power BI
+# Step 2: Data Visualization and Insights with Power BI
 
 Power BI is a powerful tool for data visualization and gaining actionable insights from your data. To start using Power BI, download it from the following link:
 
@@ -74,5 +74,12 @@ Power BI is a powerful tool for data visualization and gaining actionable insigh
 6. Navigte to your new file path and click `OK`.
 7. Click `Close`.
 8. Click `Apply changes` to update the data.
+
+## Sample Outputs
+
+### Behavior mapping in Power BI
+
+
+### Quantitative Analysis
 
 
