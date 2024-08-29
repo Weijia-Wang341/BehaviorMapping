@@ -55,11 +55,11 @@ from tkinter import filedialog
 
 Power BI is a powerful tool for data visualization and gaining actionable insights from your data. To start using Power BI, download it from the following link:
 
-[Download Power BI](http://example.com/download-power-bi)
+[Download Power BI](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
 ## Workflow Chart
 
-![Workflow Chart](path/to/your/workflow-chart.png)
+![flowchart2](https://github.com/user-attachments/assets/4cd16b39-9efa-439a-875a-7a9bf503ebdb)
 
 ## Step-by-Step Guide
 
