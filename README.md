@@ -57,8 +57,22 @@ Power BI is a powerful tool for data visualization and gaining actionable insigh
 
 ## Step-by-Step Guide
 
+### Environment Setup
+
 1. Open Power BI Desktop.
 2. Go to `Options and settings` -> `Options`.
 3. Navigate to `Python scripting` under the `Global` section.
 4. Under `Detected Python home directories`, choose your Python directory.
+
+### Change data source 
+
+1. Open Power BI Desktop.
+2. Open the Power BI report.
+3. Go to `File` in the upper left corner.
+4. Click `Options and Setting` -> `Data source settings`.
+5. In the `Data source settings` window, select the data source you want to change and click `Change Source...`.
+6. Navigte to your new file path and click `OK`.
+7. Click `Close`.
+8. Click `Apply changes` to update the data.
+
 
