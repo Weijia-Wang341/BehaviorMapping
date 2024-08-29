@@ -1,6 +1,6 @@
 # BehaviorMapping
 
-Behavior Mapping is a method used to visualize and analyze user interactions within a system to improve user experience and functionality. For a detailed exploration of behavior mapping, refer to my [original article](http://example.com/original-article).
+Behavior Mapping is a method used to visualize and analyze user interactions within a system to improve user experience and functionality. For a detailed exploration of behavior mapping, refer to my [original article](https://medium.com/@weijiawa/transforming-bluebeam-pdfs-into-interactive-dashboards-with-python-and-powerbi-6953c70e1d87).
 
 
 # Step 1: Create an Executable File
